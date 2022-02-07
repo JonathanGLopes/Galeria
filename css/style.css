@@ -237,3 +237,29 @@ footer span {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+@media screen and (max-width: 425px) {
+    .header-brand {
+      text-align: center;
+    }
+
+    .header-navbar {
+      padding: 1rem;
+    }
+
+    .header {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .gallery {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .gallery-card {
+      width: 80%;
+      margin-bottom: 7%;
+    }
+}
