@@ -1,6 +1,9 @@
 # Galeria
 
-Fonte: Josefin Sans 
+<h1> Objetivo </h1>
+- Projeto desenvolvido com objetivo de conhecer sobre a linguagem SASS
+ <br>
+- Fonte: Josefin Sans 
 
 
 Versão Desktop:
